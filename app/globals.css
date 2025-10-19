@@ -3,6 +3,25 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --card-bg: #ffffff;
+  --card-border: #e5e7eb;
+  --input-bg: #ffffff;
+  --input-border: #d1d5db;
+  --success-bg: #d1fae5;
+  --success-text: #065f46;
+  --success-border: #a7f3d0;
+  --warning-bg: #fef3c7;
+  --warning-text: #92400e;
+  --warning-border: #fde68a;
+  --info-bg: #dbeafe;
+  --info-text: #1e40af;
+  --info-border: #93c5fd;
+  --button-primary: #3b82f6;
+  --button-success: #10b981;
+  --button-danger: #ef4444;
+  --button-secondary: #6b7280;
+  --shadow: rgba(0, 0, 0, 0.1);
+  --modal-overlay: rgba(0, 0, 0, 0.5);
 }
 
 @theme inline {
@@ -16,6 +35,25 @@
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+    --card-bg: #1f2937;
+    --card-border: #374151;
+    --input-bg: #1f2937;
+    --input-border: #4b5563;
+    --success-bg: #064e3b;
+    --success-text: #d1fae5;
+    --success-border: #047857;
+    --warning-bg: #78350f;
+    --warning-text: #fef3c7;
+    --warning-border: #b45309;
+    --info-bg: #1e3a8a;
+    --info-text: #dbeafe;
+    --info-border: #3b82f6;
+    --button-primary: #3b82f6;
+    --button-success: #10b981;
+    --button-danger: #ef4444;
+    --button-secondary: #9ca3af;
+    --shadow: rgba(0, 0, 0, 0.3);
+    --modal-overlay: rgba(0, 0, 0, 0.75);
   }
 }
 
