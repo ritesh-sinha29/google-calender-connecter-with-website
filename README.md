@@ -1,4 +1,4 @@
-# 🗓️ Clario Calendar - Google Calendar Integration
+# 🗓️ Google Calendar Integration
 
 A seamless calendar integration for the Clario platform that allows users to create events directly from the web interface and sync them to their Google Calendar.
 
